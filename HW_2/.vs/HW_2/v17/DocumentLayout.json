@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|c:\\users\\user\\documents\\\u05E8\u05E0\u05D9\\hw_2\\hw_2\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|solutionrelative:hw_2\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|c:\\users\\user\\documents\\\u05E8\u05E0\u05D9\\hw_2\\hw_2\\medicin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|solutionrelative:hw_2\\medicin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|c:\\users\\user\\documents\\\u05E8\u05E0\u05D9\\hw_2\\hw_2\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|solutionrelative:hw_2\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|c:\\users\\user\\documents\\\u05E8\u05E0\u05D9\\hw_2\\hw_2\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|solutionrelative:hw_2\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|c:\\users\\user\\documents\\\u05E8\u05E0\u05D9\\hw_2\\hw_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEED5A1-861B-461E-977E-785F14488E82}|HW_2\\HW_2.csproj|solutionrelative:hw_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\package.cs",
+              "RelativeDocumentMoniker": "HW_2\\package.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\package.cs",
+              "RelativeToolTip": "HW_2\\package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:54:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "medicin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\medicin.cs",
+              "RelativeDocumentMoniker": "HW_2\\medicin.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\medicin.cs",
+              "RelativeToolTip": "HW_2\\medicin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:54:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\Log.cs",
+              "RelativeDocumentMoniker": "HW_2\\Log.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\Log.cs",
+              "RelativeToolTip": "HW_2\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:53:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\inventoryManager.cs",
+              "RelativeDocumentMoniker": "HW_2\\inventoryManager.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\inventoryManager.cs",
+              "RelativeToolTip": "HW_2\\inventoryManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:52:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\Program.cs",
+              "RelativeDocumentMoniker": "HW_2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05E8\u05E0\u05D9\\HW_2\\HW_2\\Program.cs",
+              "RelativeToolTip": "HW_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:51:26.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
